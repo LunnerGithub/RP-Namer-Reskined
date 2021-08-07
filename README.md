@@ -1,6 +1,3 @@
-# THE RP NAMER RESKIN
-
-A possible useful reskin for your games!
 
 # What is RP Namer Reskin?
 
